@@ -1,5 +1,0 @@
-npm i Express
-npm i ejs
-npm i cookie-parser
-npm i multer
-npm i mongoose

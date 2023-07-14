@@ -1,0 +1,8 @@
+npm i Express
+npm i ejs
+npm i cookie-parser
+npm i multer
+npm i mongoose
+npm i bcrypt = for password encryption
+npm i jsonwebtoken = jwt token creator
+npm i dotenv = for using .env file
