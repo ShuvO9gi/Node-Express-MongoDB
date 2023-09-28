@@ -4,5 +4,5 @@ npm i cookie-parser
 npm i multer
 npm i mongoose
 npm i bcrypt = for password encryption
-npm i jsonwebtoken = jwt token creator
+npm i jsonwebtoken = jwt token creator <check: https://jwt.io/>
 npm i dotenv = for using .env file
